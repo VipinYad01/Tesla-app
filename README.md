@@ -11,11 +11,20 @@ This project demonstrates **SwiftUI layout techniques, animations, and interacti
 
 Built purely with **SwiftUI**, no UIKit involved. Perfect for learning **layouts, stacks, animations, and state management** 📐📦.
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 31 42" src="https://github.com/user-attachments/assets/496ff3c4-0705-4b4f-b303-e41eb29eca3b" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 31 54" src="https://github.com/user-attachments/assets/ae2106af-a3dd-4a8e-8ddd-6d9e7efc5022" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 32 34" src="https://github.com/user-attachments/assets/ebfd696a-cee3-4919-af1b-2965a0c82ae1" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 32 28" src="https://github.com/user-attachments/assets/4b766464-3399-47fc-86d4-adce6508a272" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 32 24" src="https://github.com/user-attachments/assets/43d23b23-8ee7-444b-ae4b-f99cdfaf3285" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 32 47" src="https://github.com/user-attachments/assets/38f6444e-9a36-4f85-925c-b4ffbebad19b" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 32 21" src="https://github.com/user-attachments/assets/d3f84d7d-278d-4751-800e-fe0878b22999" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 01 32 40" src="https://github.com/user-attachments/assets/3969d97e-c650-4ae5-ba46-50d2092f76ba" />
+<img src="https://github.com/user-attachments/assets/496ff3c4-0705-4b4f-b303-e41eb29eca3b" width="300" />
+
+<img src="https://github.com/user-attachments/assets/ae2106af-a3dd-4a8e-8ddd-6d9e7efc5022" width="300" />
+
+<img src="https://github.com/user-attachments/assets/ebfd696a-cee3-4919-af1b-2965a0c82ae1" width="300" />
+
+<img src="https://github.com/user-attachments/assets/4b766464-3399-47fc-86d4-adce6508a272" width="300" />
+
+<img src="https://github.com/user-attachments/assets/43d23b23-8ee7-444b-ae4b-f99cdfaf3285" width="300" />
+
+<img src="https://github.com/user-attachments/assets/38f6444e-9a36-4f85-925c-b4ffbebad19b" width="300" />
+
+<img src="https://github.com/user-attachments/assets/d3f84d7d-278d-4751-800e-fe0878b22999" width="300" />
+
+<img src="https://github.com/user-attachments/assets/3969d97e-c650-4ae5-ba46-50d2092f76ba" width="300" />
+
+
